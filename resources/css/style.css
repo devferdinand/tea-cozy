@@ -1,0 +1,36 @@
+img {
+    height: 50px;
+}
+
+.header {
+    height: 69px;
+    background-color: black;
+    border-bottom: 1px solid seashell;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    opacity: 0.9;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin-right: 25px;
+}
+
+nav ul li:last-child {
+    margin-right: 5px;
+}
+
+nav li a {
+    color: seashell;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 22px;
+}
+
+body {
+    background-color: black;
+}
