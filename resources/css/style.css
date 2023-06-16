@@ -61,3 +61,10 @@ nav li a {
     width: 1200px;
     text-align: center;
 }
+
+.tea-heading {
+    height: 109px;
+    width: 1000px;
+    text-align: center;
+    margin-top: 50px;
+}
